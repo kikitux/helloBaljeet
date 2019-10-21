@@ -1,6 +1,7 @@
 # helloBaljeet
 
 ## TODO
-- [ ] add hello.sh
+
 
 ## DONE
+- [x] add hello.sh
